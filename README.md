@@ -3,8 +3,9 @@
     <img width="33%" src="https://github.com/egdemte/ankaos_distro/blob/beta/AnkaOS-images/AnkaOS-logo.png" alt="AnkaOS-logo"> 
 </p>
 <br>
-<br>
+
 **AnkaOS'in resmi Github deposuna hoş geldiniz**
+
 ## Proje Amacı
 🚀 Hedefimiz size kullanımı **en kolay işletim** sistemini vaad etmek,
 **En stabili** ve son olarak bir **windows alternatifi** olmaktır.
