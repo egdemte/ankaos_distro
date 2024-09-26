@@ -1,5 +1,5 @@
 # AnkaOS 🐦
-![alt text](\AnkaOS-images)
+![alt text](https://github.com/egdemte/ankaos_distro/blob/beta/AnkaOS-images/AnkaOS-logo.png)
 **AnkaOS'in resmi Github deposuna hoş geldiniz** 
 ## Proje Amacı
 🚀 Hedefimiz size kullanımı **en kolay işletim** sistemini vaad etmek,
