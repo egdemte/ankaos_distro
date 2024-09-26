@@ -1,4 +1,5 @@
 # AnkaOS 🐦
+![alt text](\AnkaOS-images)
 **AnkaOS'in resmi Github deposuna hoş geldiniz** 
 ## Proje Amacı
 🚀 Hedefimiz size kullanımı **en kolay işletim** sistemini vaad etmek,
