@@ -1,0 +1,3 @@
+[submodule "AnkaOS-linutil/AnkaOS-linutil/linutil"]
+	path = AnkaOS-linutil/AnkaOS-linutil/linutil
+	url = https://github.com/ChrisTitusTech/linutil
