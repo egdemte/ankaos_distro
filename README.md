@@ -1,13 +1,13 @@
 # AnkaOS 🐦
 ** AnkaOS'in resmi Github deposuna hoş geldiniz** 
 ## Proje Amaci
-🚀 Hedefimiz size kullanimi **en kolay isletim** sistemini vaad etmek,
-**En stabilini** ve son olarak bir **windows alternatifi** olmaktir.
+🚀 Hedefimiz size kullanımı **en kolay işletim** sistemini vaad etmek,
+**En stabili** ve son olarak bir **windows alternatifi** olmaktır.
 
 #### Prensiplerimiz:
 1. Stabil olmak.
-2. Kullanim kolayligi.
-3. bir alternetif olmak.
+2. Kullanım kolaylığı.
+3. Bir alternatif olmak.
 
 <!--
 ## Proje Durumu
