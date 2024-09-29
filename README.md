@@ -1,6 +1,6 @@
 # AnkaOS 🐦
-<p align="left" width="100%">
-    <img width="33%" src="https://github.com/egdemte/ankaos_distro/blob/beta/AnkaOS-images/AnkaOS-logo.png" alt="AnkaOS-logo"> 
+<p align="left" width="80%">
+    <img width="33%" src="https://github.com/egdemte/ankaos_distro/blob/main/AnkaOS-images/logo2.png" alt="AnkaOS-logo"> 
 </p>
 <br>
 
