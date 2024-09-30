@@ -19,3 +19,5 @@ AnkaOS Varsayılan Web Tarayıcısı: Hüma Browser...
 [Tarayıcı Kaynak Kodu](https://github.com/Huma-Browser/browser)
 
 [Tarayıcı Web Sitesi](https://humatarayici.netlify.app/)
+
+[Flathub](https://flathub.org/apps/com.humatarayici.od)
